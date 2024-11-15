@@ -1,0 +1,258 @@
+[
+  {
+    identifier: 1,
+    title: 'The 120 Days of Sodom',
+    price_in_pence: 400,
+    quantity_in_stock: 3,
+    release_date: 1975-10-11T23:00:00.000Z,
+    is_fiction: true
+  },
+  {
+    identifier: 2,
+    title: 'The Math of Life and Death',
+    price_in_pence: 600,
+    quantity_in_stock: 5,
+    release_date: 2010-10-11T23:00:00.000Z,
+    is_fiction: true
+  },
+  {
+    identifier: 3,
+    title: 'Ducktales 5: Monsters and Mayhem',
+    price_in_pence: 200,
+    quantity_in_stock: 7,
+    release_date: 2021-10-11T23:00:00.000Z,
+    is_fiction: false
+  },
+  {
+    identifier: 4,
+    title: 'The Idiot',
+    price_in_pence: 300,
+    quantity_in_stock: 4,
+    release_date: 1869-10-12T00:00:00.000Z,
+    is_fiction: false
+  },
+  {
+    identifier: 5,
+    title: 'Lolita',
+    price_in_pence: 500,
+    quantity_in_stock: 2,
+    release_date: 1955-10-12T00:00:00.000Z,
+    is_fiction: true
+  },
+  {
+    identifier: 6,
+    title: 'Secrets of the Whipcord',
+    price_in_pence: 600,
+    quantity_in_stock: 10,
+    release_date: 1997-10-11T23:00:00.000Z,
+    is_fiction: false
+  },
+  {
+    identifier: 7,
+    title: 'The Hitchhikers Guide to the Galaxy',
+    price_in_pence: 899,
+    quantity_in_stock: 560,
+    release_date: 1997-10-11T23:00:00.000Z,
+    is_fiction: true
+  },
+  {
+    identifier: 8,
+    title: 'The Little Prince',
+    price_in_pence: 699,
+    quantity_in_stock: 1020,
+    release_date: 1943-04-05T22:00:00.000Z,
+    is_fiction: true
+  },
+  {
+    identifier: 9,
+    title: 'The Tale of Peter Rabbit',
+    price_in_pence: 599,
+    quantity_in_stock: 1000,
+    release_date: 1902-10-01T00:00:00.000Z,
+    is_fiction: true
+  },
+  {
+    identifier: 10,
+    title: 'Emma',
+    price_in_pence: 522,
+    quantity_in_stock: 390,
+    release_date: 1815-12-23T00:01:15.000Z,
+    is_fiction: true
+  },
+  {
+    identifier: 11,
+    title: 'Nineteen Eighty-Four: A Novel',
+    price_in_pence: 799,
+    quantity_in_stock: 420,
+    release_date: 1949-06-07T23:00:00.000Z,
+    is_fiction: true
+  },
+  {
+    identifier: 12,
+    title: 'The Handmaids Tale',
+    price_in_pence: 899,
+    quantity_in_stock: 10,
+    release_date: 1985-07-31T23:00:00.000Z,
+    is_fiction: true
+  },
+  {
+    identifier: 13,
+    title: 'The War of the Worlds',
+    price_in_pence: 250,
+    quantity_in_stock: 17,
+    release_date: 1897-04-01T00:00:00.000Z,
+    is_fiction: true
+  },
+  {
+    identifier: 14,
+    title: 'Captain Corellis Mandolin',
+    price_in_pence: 999,
+    quantity_in_stock: 0,
+    release_date: 1995-08-28T23:00:00.000Z,
+    is_fiction: true
+  },
+  {
+    identifier: 15,
+    title: 'A Brief History of Time',
+    price_in_pence: 825,
+    quantity_in_stock: 0,
+    release_date: 1988-03-31T23:00:00.000Z,
+    is_fiction: false
+  },
+  {
+    identifier: 16,
+    title: 'Pride and Prejudice',
+    price_in_pence: 699,
+    quantity_in_stock: 4,
+    release_date: 1813-01-28T00:01:15.000Z,
+    is_fiction: true
+  },
+  {
+    identifier: 17,
+    title: 'The 120 Days of Sodom',
+    price_in_pence: 400,
+    quantity_in_stock: 3,
+    release_date: 1975-10-11T23:00:00.000Z,
+    is_fiction: true
+  },
+  {
+    identifier: 18,
+    title: 'The Math of Life and Death',
+    price_in_pence: 600,
+    quantity_in_stock: 5,
+    release_date: 2010-10-11T23:00:00.000Z,
+    is_fiction: true
+  },
+  {
+    identifier: 19,
+    title: 'Ducktales 5: Monsters and Mayhem',
+    price_in_pence: 200,
+    quantity_in_stock: 7,
+    release_date: 2021-10-11T23:00:00.000Z,
+    is_fiction: false
+  },
+  {
+    identifier: 20,
+    title: 'The Idiot',
+    price_in_pence: 300,
+    quantity_in_stock: 4,
+    release_date: 1869-10-12T00:00:00.000Z,
+    is_fiction: false
+  },
+  {
+    identifier: 21,
+    title: 'Lolita',
+    price_in_pence: 500,
+    quantity_in_stock: 2,
+    release_date: 1955-10-12T00:00:00.000Z,
+    is_fiction: true
+  },
+  {
+    identifier: 22,
+    title: 'Secrets of the Whipcord',
+    price_in_pence: 600,
+    quantity_in_stock: 10,
+    release_date: 1997-10-11T23:00:00.000Z,
+    is_fiction: false
+  },
+  {
+    identifier: 23,
+    title: 'The Hitchhikers Guide to the Galaxy',
+    price_in_pence: 899,
+    quantity_in_stock: 560,
+    release_date: 1997-10-11T23:00:00.000Z,
+    is_fiction: true
+  },
+  {
+    identifier: 24,
+    title: 'The Little Prince',
+    price_in_pence: 699,
+    quantity_in_stock: 1020,
+    release_date: 1943-04-05T22:00:00.000Z,
+    is_fiction: true
+  },
+  {
+    identifier: 25,
+    title: 'The Tale of Peter Rabbit',
+    price_in_pence: 599,
+    quantity_in_stock: 1000,
+    release_date: 1902-10-01T00:00:00.000Z,
+    is_fiction: true
+  },
+  {
+    identifier: 26,
+    title: 'Emma',
+    price_in_pence: 522,
+    quantity_in_stock: 390,
+    release_date: 1815-12-23T00:01:15.000Z,
+    is_fiction: true
+  },
+  {
+    identifier: 27,
+    title: 'Nineteen Eighty-Four: A Novel',
+    price_in_pence: 799,
+    quantity_in_stock: 420,
+    release_date: 1949-06-07T23:00:00.000Z,
+    is_fiction: true
+  },
+  {
+    identifier: 28,
+    title: 'The Handmaids Tale',
+    price_in_pence: 899,
+    quantity_in_stock: 10,
+    release_date: 1985-07-31T23:00:00.000Z,
+    is_fiction: true
+  },
+  {
+    identifier: 29,
+    title: 'The War of the Worlds',
+    price_in_pence: 250,
+    quantity_in_stock: 17,
+    release_date: 1897-04-01T00:00:00.000Z,
+    is_fiction: true
+  },
+  {
+    identifier: 30,
+    title: 'Captain Corellis Mandolin',
+    price_in_pence: 999,
+    quantity_in_stock: 0,
+    release_date: 1995-08-28T23:00:00.000Z,
+    is_fiction: true
+  },
+  {
+    identifier: 31,
+    title: 'A Brief History of Time',
+    price_in_pence: 825,
+    quantity_in_stock: 0,
+    release_date: 1988-03-31T23:00:00.000Z,
+    is_fiction: false
+  },
+  {
+    identifier: 32,
+    title: 'Pride and Prejudice',
+    price_in_pence: 699,
+    quantity_in_stock: 4,
+    release_date: 1813-01-28T00:01:15.000Z,
+    is_fiction: true
+  }
+]
